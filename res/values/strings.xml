@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DosActividades</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="actividadUno">Actividad Uno</string>
+    <string name="botonActividadUno">Lanzar actividad UNO</string>
+    <string name="title_activity_actividad_dos">Actividad Dos</string>
+    <string name="actividadDos">Actividad Dos</string>
+    <string name="botonActividadDos">Responder a actividad UNO</string>
+
+</resources>
